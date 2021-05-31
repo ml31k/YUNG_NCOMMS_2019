@@ -1,5 +1,7 @@
 README
 
+This repository contains the code and processed data used to generate the relevant figures/analyses published in: Yung, T., Poon, F., Liang, M. et al. Sufu- and Spop-mediated downregulation of Hedgehog signaling promotes beta cell differentiation through organ-specific niche signals. Nat Commun 10, 4647 (2019). https://doi.org/10.1038/s41467-019-12624-5
+
 System Requirements:
 ## This script has been tested on:
 ## R version 3.4.1 (2017-06-30)
